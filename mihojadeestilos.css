@@ -1,0 +1,81 @@
+#inicio{
+  background-image: url("http://i0.wp.com/bgfons.com/uploads/brick/brick_texture3452.jpg?strip=all");
+  background-attachment: fixed;
+  background-repeat: repeat;
+  background-position: center;
+  background-size:contain;
+  background-color: #f9f9f9;
+  margin: 0;
+  height: auto;
+  width: auto;
+  align-items: center;
+}
+header{
+  background-image: url("http://i0.wp.com/bgfons.com/uploads/brick/brick_texture3452.jpg?strip=all");
+  background-attachment: fixed;
+  background-size:contain;
+  height: 50px;
+  padding-top: 0px;
+}
+
+
+h1{
+  font-family: Impact, Charcoal, sans-serif;
+  font-weight: bold;
+  text-align: left;
+}
+
+#kk{
+  float:left;
+  margin-left: 30px;
+  margin-top:  6px;
+}
+
+#buscar{
+  float: right;
+  margin-right: 30px;
+  margin-top:  15px;
+
+}
+
+#cabeza{
+  font-family: Impact, Charcoal, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 110px;
+}
+
+
+#info{
+
+  background-color: #5bc0de;
+  height: 350px;
+  width: 28% ;
+  float: left;
+  padding: 12%;
+
+  color: #f9f9f9;
+  text-align: center;
+}
+
+#logeo{
+  /*background-color: #f9f9f9;*/
+  text-align: justify;
+  height: 250px;
+  width: 40%;
+  /*margin-left: 700px;*/
+  color:black;
+}
+
+#formulario{
+  background-image: url("http://winnerparty.com/8819-large_default/papel-china-colibri-tipo-papel-seda-azul-turquesa-100sheets-ppch-7508310211275.jpg") ;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:contain;
+  text-align: center;
+  color:#f9f9f9;
+    height: 600px;
+    padding: 9%;
+
+}
